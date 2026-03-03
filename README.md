@@ -71,7 +71,7 @@ RealTimeSafetyMonitor/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/RealTimeSafetyMonitor.git
+git clone https://github.com/ssdiba/RealTimeSafetyMonitor.git
 cd RealTimeSafetyMonitor
 ```
 
