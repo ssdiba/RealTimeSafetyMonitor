@@ -183,13 +183,13 @@ Google_broken_socket.jpg,office,yes,electrical,high,"burned electrical plug with
 
 ## 🚧 Future Improvements
 
-**Short-term (1-2 weeks):**
+**Short-term:**
 1. Collect 500-1000 safety-specific training images
 2. Fine-tune BLIP on domain-specific dataset
 3. Add confidence thresholding for alert sensitivity
 4. Implement temporal filtering (reduce false alarms in video)
 
-**Long-term (1-2 months):**
+**Long-term:**
 1. Train custom vision-language model with safety focus
 2. Add object detection for specific hazard types (cables, spills, etc.)
 3. Build web dashboard with historical analytics
@@ -225,9 +225,9 @@ MIT License - see LICENSE file for details
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Samia Diba
+- GitHub: [ssdiba](https://github.com/ssdiba)
+
 
 ## 🙏 Acknowledgments
 
