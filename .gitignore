@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+models/                    # Large model files
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Data - uncomment if you want to exclude images
+# data/training/images/*.jpg
+# data/training/images/*.png
+# data/evaluation/images/*.jpg
+
+# Logs and temporary files
+logs/*.json
+alerts/*.jpg
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# Anaconda
+anaconda_project/
+# Exclude large dataset and outputs
+data/
+results/
