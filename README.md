@@ -219,14 +219,10 @@ Contributions welcome! Areas for improvement:
 - Adding new hazard categories
 - Improving classification accuracy
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
 ## 👤 Author
 
 Samia Diba
-- GitHub: [ssdiba](https://github.com/ssdiba)
+Priya
 
 
 ## 🙏 Acknowledgments
