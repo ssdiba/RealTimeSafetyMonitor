@@ -221,8 +221,9 @@ Contributions welcome! Areas for improvement:
 
 ## 👤 Author
 
-Samia Diba
-Priya
+- Samia Diba
+
+- Priya
 
 
 ## 🙏 Acknowledgments
